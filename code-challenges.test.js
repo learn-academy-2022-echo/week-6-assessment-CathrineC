@@ -135,7 +135,7 @@ describe("sumNum", () => {
 // PSEUDO CODE:
 // - create a function that can loop through the array
 
-PSEUDO CODE:
+// PSEUDO CODE:
 // - Input: array of numbers
 // - Output: sum of all the cubed numbers
 // - create a function that can loop through the array
