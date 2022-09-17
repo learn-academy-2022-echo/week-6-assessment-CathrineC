@@ -1,9 +1,5 @@
 // ASSESSMENT 6: JavaScript Coding Practical Questions with Jest
 
-const { updateExpression, NUMBER_UNARY_OPERATORS } = require("@babel/types")
-const { type } = require("os")
-const { array } = require("yargs")
-
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
